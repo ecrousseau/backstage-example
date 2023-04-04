@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-example
+  description: An example component discovered via GitHub integration
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guest
