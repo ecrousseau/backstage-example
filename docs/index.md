@@ -2,7 +2,7 @@
 
 Lorem ipsum etc.
 
-``` mermaid
+```mermaid
 graph LR
   A[Start] --> B{Error?};
   B -->|Yes| C[Hmm...];
